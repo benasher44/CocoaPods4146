@@ -1,0 +1,5 @@
+.bundle/
+Pods/
+PodsNonTrivalDepsTest.xcworkspace/
+vendor/
+*xcuserdata*
