@@ -9,5 +9,6 @@ abstract_target 'SharedDeps' do
     pod 'AFOAuth2Manager'
   end
 
+  target 'PodsNonTrivalDepsTest WatchKit 1 Extension'
 end
 
