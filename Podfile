@@ -6,7 +6,7 @@ abstract_target 'SharedDeps' do
 
   target 'PodsNonTrivalDepsTest' do
     pod 'AFNetworking'
-    pod 'AFOAuth2Manager'
+    pod 'AFNetworking-RACExtensions'
   end
 
   target 'PodsNonTrivalDepsTest WatchKit 1 Extension'
