@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/CocoaPods/CocoaPods
-  revision: b20912dfe151b38a67b1ee44e764510f8b3d9475
+  revision: dd1b43118b4fa2e6f380cb2f4c2b4e45ed01e03a
   branch: mr-fix-scoping
   specs:
     cocoapods (1.0.0.beta.3)
