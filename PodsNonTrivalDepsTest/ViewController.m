@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import <Mailcheck-ObjectiveC/Mailcheck.h>
 
 @interface ViewController ()
 

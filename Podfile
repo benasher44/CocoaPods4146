@@ -7,6 +7,7 @@ abstract_target 'SharedDeps' do
   target 'PodsNonTrivalDepsTest' do
     pod 'AFNetworking'
     pod 'AFNetworking-RACExtensions'
+    pod 'Mailcheck-ObjectiveC'
   end
 
   target 'PodsNonTrivalDepsTest WatchKit 1 Extension'
